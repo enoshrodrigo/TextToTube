@@ -5,7 +5,7 @@
     "description": "Search selected text on YouTube via context menu.",
     "permissions": ["contextMenus", "tabs"],
     "background": {
-      "service_worker": "background.js"
+      "scripts": ["background.js"]
     },
     "icons": {
       "16": "./assets/icon16.png",
