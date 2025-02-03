@@ -113,11 +113,7 @@ The YouTube Search extension adds a context menu item to Firefox. When a user se
 - **No Node.js Required:**  
   This extension does not use Node.js or any external build tools. All you need is a text editor and Firefox to test the extension.
 
-- **Version Updates:**  
-  When updating your extension, increment the version number in `manifest.json` and update your version notes accordingly during the submission process.
-
-- **Review Compliance:**  
-  Ensure that your source code (including any modifications done by tools such as ChatGPT or SVG file conversions) is included in the package so that reviewers can assess your code.
+ 
 
 ---
 
