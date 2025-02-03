@@ -115,9 +115,3 @@ The YouTube Search extension adds a context menu item to Firefox. When a user se
 ---
 
 By following these instructions, you can successfully build, test, package, and submit your YouTube Search extension for Firefox.
-
-<<<<<<< HEAD
----
-=======
----
->>>>>>> 8492fdec3fb64b3f4d49410cf6d8625bd7b64b34
