@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Search",
+    "version": "1.0",
+    "description": "Search selected text on YouTube via context menu.",
+    "permissions": ["contextMenus", "tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": {
+      "16": "./assets/icon16.png",
+      "48": "./assets/icon48.png",
+      "128": "./assets/icon128.png"
+    }
+  }
+  

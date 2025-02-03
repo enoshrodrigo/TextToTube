@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A custom icon for a YouTube search extension called "YE search" -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Red background with rounded corners -->
+  <rect width="128" height="128" rx="20" ry="20" fill="#FF0000"/>
+  
+  <!-- Magnifying glass (circle and handle) -->
+  <!-- The circle -->
+  <circle cx="55" cy="55" r="20" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <!-- The handle -->
+  <line x1="68" y1="68" x2="90" y2="90" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- YouTube play button inside the circle (a triangle) -->
+  <polygon points="48,45 48,65 63,55" fill="#FFFFFF"/>
+  
+  <!-- Text "YE search" -->
+  <text x="50%" y="115" text-anchor="middle" fill="#FFFFFF" font-size="14" font-family="Arial" font-weight="bold">
+    YE search
+  </text>
+</svg>
