@@ -1,6 +1,3 @@
-Below is an example README text document (plain text) that explains how to build, test, and package your YouTube Search extension without requiring Node.js or other build tools:
-
----
 
 **YouTube Search Extension README**
 
